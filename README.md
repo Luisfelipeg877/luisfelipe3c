@@ -39,6 +39,6 @@ border-bottom: 100px solid green;
 <div class="circulo"></div>
 <div class="triangulo"></div>
 </div>
-</body><img src="imagens/figura1.png" alt="Figura geométrica">
+</body>
 </html>
 
