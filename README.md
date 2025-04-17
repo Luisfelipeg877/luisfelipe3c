@@ -41,3 +41,4 @@ border-bottom: 100px solid green;
 </div>
 </body>
 </html>
+<img src="figura1.png" alt="Figura geométrica" width="300">
